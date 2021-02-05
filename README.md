@@ -1,11 +1,11 @@
 # Serial-BenQ-Projector-Home-Assistant-Integration
 A Custom Integration for Home Assistant to integrate a BenQ Projector on it!
 
-# Example configuration.yaml entry
+```# Example configuration.yaml entry
 switch:
-  - platform: benq_projector
-  
-    filename: /dev/ttyUSB0
+    - platform: benq_projector
+      filename: /dev/ttyUSB0
+```
     
 # Settings
 
