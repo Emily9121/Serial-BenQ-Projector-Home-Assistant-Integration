@@ -1,6 +1,7 @@
 {
   "domain": "benq_projector",
   "name": "BenQ Projector",
+  "version": "1.0",
   "documentation": "None",
   "requirements": ["pyserial==3.5"],
   "codeowners": []
