@@ -4,5 +4,6 @@
   "version": "1.0",
   "documentation": "None",
   "requirements": ["pyserial==3.5"],
-  "codeowners": []
+  "codeowners": [],
+  "config_flow": false
 }
